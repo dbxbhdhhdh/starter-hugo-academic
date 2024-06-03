@@ -88,7 +88,7 @@ MongoDB在[文档型数据库中排名第一](https://db-engines.com/en/ranking/
 [^1]: 参考([如何科学地提问)](https://ysyx.oscc.cc/docs/2306/prestudy/0.1.html))
 
 ## 六、常见问题的解决方法
-> 思路1.解决问题的思路：将问题提炼清楚，然后在Chatgpt(gpt原版，kimi,讯飞星火等)，Google，bing，baidu等搜索引擎进行检索答案，95%以上问题均可以解决。
+> 思路1.解决问题的思路：将问题提炼清楚，然后在Chatgpt(gpt原版，kimi,讯飞星火等)，Google，bing，baidu等搜索引擎进行检索答案，95%以上问题均可以解决。\n
 > 思路2.摸索2天依然没有找到解决方案，寻找周围的高手帮助。
 
 1.我喜欢最新版本的软件，我就直接官网下载安装，可以吗？<br>
