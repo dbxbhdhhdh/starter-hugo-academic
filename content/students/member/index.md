@@ -21,7 +21,8 @@ publishDate: '2024-041-09T00:00:00Z'
 
 ## 一、指导学生情况
 
-- 2024，研究生：惠丽洁，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，投稿中
+- 2024年，研究生：刘海鹏，获得校优秀毕业生
+- 2024年，研究生：惠丽洁，Dynamic Grouping Scheme for Personalized Federated Meta-Learning，投稿中
 - 2024年4月，研究生：杨博帆获得2024年江苏省研究生实践创新计划项目，立项，资助1.5万元
 - 2024年4月，研究生：史林，BMSE: Blockchain-based multi-keyword searchable encryption for electronic medical records，Computer Standards & Interfaces(中科院2区)
 - 2023年7月，研究生：汤星译，基于iFA-LSTM的恶意行为检测方法，计算机工程与科学（北大核心录用），2024.1
